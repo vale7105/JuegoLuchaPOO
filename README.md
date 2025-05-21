@@ -1,11 +1,11 @@
 # 🥋 Proyecto POO Java - Juego de Lucha 2D con LibGDX
 
-*Elaborado por:*
-Anghelic Peñaranda
-Stefany Murillo
-Valeria Quitiaquez Pasuy
+*Elaborado por:*  
+Anghelic Peñaranda  
+Stefany Murillo  
+Valeria Quitiaquez Pasuy 
 
-Asignatura:* Ingeniería de software
+*Asignatura:* Ingeniería de software
 *Docente:* Jhon Haide Cano Beltrán
 *Curso:* 6303A
 
