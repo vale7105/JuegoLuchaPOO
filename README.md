@@ -5,8 +5,8 @@ Anghelic Peñaranda
 Stefany Murillo  
 Valeria Quitiaquez Pasuy 
 
-*Asignatura:* Ingeniería de software
-*Docente:* Jhon Haide Cano Beltrán
+*Asignatura:* Ingeniería de software  
+*Docente:* Jhon Haide Cano Beltran  
 *Curso:* 6303A
 
 ## Descripción General
