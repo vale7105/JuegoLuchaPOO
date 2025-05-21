@@ -12,6 +12,10 @@ Valeria Quitiaquez Pasuy
 ## Descripción General
 Este proyecto consiste en un videojuego de lucha 2D desarrollado con Java y el framework LibGDX. Presenta una pantalla de menú y una pantalla de combate donde dos personajes (una ninja y una vaquera) se enfrentan con controles personalizados, animaciones, sonidos y detección de colisiones para ataques. Se han aplicado conceptos fundamentales de la Programación Orientada a Objetos, así como patrones de diseño para lograr una estructura de código modular y escalable.
 
+# Diagrama de clases
+![Untitled Diagram (3)](https://github.com/user-attachments/assets/4ea5d213-4187-42d9-a0e6-c3935d07d5ab)
+
+
 ## Conceptos Aplicados
 Se implementan los cuatro pilares de la POO:
 
